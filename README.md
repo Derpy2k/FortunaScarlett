@@ -16,9 +16,9 @@
 <h4 align="center">Grand Theft Auto VI (Xbox Series) running natively on Windows, from your own copy.
 </h4>
 
-<p align="center"><i>Continued by <a href="https://github.com/orkan1k">orkan1k</a>.</i></p>
+<p align="center"><i>Continued by <a href="https://github.com/orkan1k">Derpy2k</a>.</i></p>
 
-> *ItsNotRexed just wanted to play on the PC.*
+> *ItsNotRexed just wanted to make a dream happen before anyone else make a stamp in the book ya know.*
 
 <p align="center">
   <a href="#status">Status</a> |
